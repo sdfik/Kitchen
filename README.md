@@ -1,8 +1,6 @@
 # 🎮 Kitchen - симулятор готовки
 
 [![Unity Version](https://img.shields.io/badge/Unity-2022.3+-blue.svg)](https://unity.com/)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20WebGL-lightgrey.svg)]()
-
 
 
 ## 🎥 Видео геймплея
