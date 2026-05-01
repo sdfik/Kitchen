@@ -342,93 +342,154 @@ Cтруктура уровня выглядит примерно так: инф�
 
 ## 🖼️ Скриншоты
 
-### Главное меню
+### 🎮 Главное меню
 
-1.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2af76415-879b-4b61-833b-f809b2c58f54" />
+**1. Главное меню**
+<img width="800" src="https://github.com/user-attachments/assets/2af76415-879b-4b61-833b-f809b2c58f54" />
 
-2.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac39f788-4dbc-4106-994d-43010180a2d2" />
+---
 
-3.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/861d0f15-f111-47c9-9487-47da976fe68c" />
+**2. Настройки. Игра**
+<img width="800" src="https://github.com/user-attachments/assets/ac39f788-4dbc-4106-994d-43010180a2d2" />
 
-4.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fab2d48a-8caa-46a5-91f3-4bc81155af75" />
+---
 
-5.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/96b97af6-d6bd-408f-b3bb-e1d1fc5a1eda" />
+**3. Настройки. Видео*
+<img width="800" src="https://github.com/user-attachments/assets/861d0f15-f111-47c9-9487-47da976fe68c" />
 
-6.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/468cb54f-3456-40fc-bb43-c85c5ce11e44" />
+---
 
-7.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43c184ca-898d-48b9-9153-25072c919f26" />
+**4. Настройки. Аудио**
+<img width="800" src="https://github.com/user-attachments/assets/fab2d48a-8caa-46a5-91f3-4bc81155af75" />
 
-### Геймплей
+---
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7e9a2e4-d59f-4645-bc2b-76d17f68e3fa" />
+**5. Настройки. Клавиши*
+<img width="800" src="https://github.com/user-attachments/assets/96b97af6-d6bd-408f-b3bb-e1d1fc5a1eda" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e3833562-0f75-4a92-bb8d-2e23cefb5554" />
+---
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71dd670a-cc64-4e95-a0cb-ac6d6d034d1e" />
+**6. Обучение*
+<img width="800" src="https://github.com/user-attachments/assets/468cb54f-3456-40fc-bb43-c85c5ce11e44" />
 
-8.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5a307de6-ede6-4922-9a7c-d55382ccf6ca" />
+---
 
-9.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d5f413b-3054-4f16-99df-57623c1ec4c3" />
+**7. Список уровней**
+<img width="800" src="https://github.com/user-attachments/assets/43c184ca-898d-48b9-9153-25072c919f26" />
 
-10.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75b1c10e-b53a-4b92-ba48-b59af563a813" />
+---
 
-11.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4244f655-1cd4-4e67-86ff-d70e28861603" />
+### ⚔️ Геймплей
 
-12.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/82f93084-4992-46ec-9b5f-fbf0e56e1e36" />
+**Загрузка**
+<img width="800" src="https://github.com/user-attachments/assets/c7e9a2e4-d59f-4645-bc2b-76d17f68e3fa" />
 
-13.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/17137bc6-ed00-4726-bb76-29683a398959" />
+---
 
-14.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0468dd9f-8724-4e59-aefc-0ae8fee38bce" />
+**Интерьер**
+<img width="800" src="https://github.com/user-attachments/assets/e3833562-0f75-4a92-bb8d-2e23cefb5554" />
 
-15.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/acf13b16-5548-47d0-9bde-b2d55fa85eb0" />
+---
 
-16.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/667ffab7-0037-4531-921d-55e7a398fdc2" />
+**Интерьер**
+<img width="800" src="https://github.com/user-attachments/assets/71dd670a-cc64-4e95-a0cb-ac6d6d034d1e" />
 
-17.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ef23151-8fa1-480f-9982-cd9c132957ae" />
+---
 
-18.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24adb989-c4e8-40ca-b503-96f952f6a3fd" />
+**8. Открытие дверц*
+<img width="800" src="https://github.com/user-attachments/assets/5a307de6-ede6-4922-9a7c-d55382ccf6ca" />
 
-19.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32167207-7057-408d-a23f-9ce74fdb4ed0" />
+---
 
-20.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09b5fd08-9124-4f06-a235-48b0a1cfed90" />
+**9. Перемещение предметов**
+<img width="800" src="https://github.com/user-attachments/assets/5d5f413b-3054-4f16-99df-57623c1ec4c3" />
 
-21.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f921f69-ee9f-4e64-8c28-0e707ce50a3e" />
+---
 
-22.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8917f515-c19e-4db9-80b6-6646ad431d63" />
+**10. Перемещение продуктов в тарелку**
+<img width="800" src="https://github.com/user-attachments/assets/75b1c10e-b53a-4b92-ba48-b59af563a813" />
 
-23.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d079e67-1f5d-4659-ba3d-69eb11501c41" />
+---
 
-24.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2787667f-3d71-4fe0-b7b3-57d23c28fd5d" />
+**11. Перемещение продуктов в тарелку из другой тарелки**
+<img width="800" src="https://github.com/user-attachments/assets/4244f655-1cd4-4e67-86ff-d70e28861603" />
 
-25.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5e7c27e-a8c9-4476-8cd5-97d130585b02" />
+---
 
-26.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/83784a60-7092-4bac-b9cc-8e1314b86181" />
+**12. Достать продукты из тарелки через UI меню**
+<img width="800" src="https://github.com/user-attachments/assets/82f93084-4992-46ec-9b5f-fbf0e56e1e36" />
 
-27.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b0de09a-0f36-4772-be2a-b77d275cec8e" />
+---
+
+**13. Нарезка продуктов**
+<img width="800" src="https://github.com/user-attachments/assets/17137bc6-ed00-4726-bb76-29683a398959" />
+
+---
+
+**14. Посуду можно расположить на плите**
+<img width="800" src="https://github.com/user-attachments/assets/0468dd9f-8724-4e59-aefc-0ae8fee38bce" />
+
+---
+
+**15. Изменить огонь на плите**
+<img width="800" src="https://github.com/user-attachments/assets/acf13b16-5548-47d0-9bde-b2d55fa85eb0" />
+
+---
+
+**16. Набор воды в кастрюлю из крана**
+<img width="800" src="https://github.com/user-attachments/assets/667ffab7-0037-4531-921d-55e7a398fdc2" />
+
+---
+
+**17. Добавление уксуса в продукты**
+<img width="800" src="https://github.com/user-attachments/assets/9ef23151-8fa1-480f-9982-cd9c132957ae" />
+
+---
+
+**18. Колокольчик - оценка блюда**
+<img width="800" src="https://github.com/user-attachments/assets/24adb989-c4e8-40ca-b503-96f952f6a3fd" />
+
+---
+
+**19. Пошаговый рецепт выбранного блюда**
+<img width="800" src="https://github.com/user-attachments/assets/32167207-7057-408d-a23f-9ce74fdb4ed0" />
+
+---
+
+**20. Информация при наведении*
+<img width="800" src="https://github.com/user-attachments/assets/09b5fd08-9124-4f06-a235-48b0a1cfed90" />
+
+---
+
+**21. Информация при наведенеии на посуду**
+<img width="800" src="https://github.com/user-attachments/assets/0f921f69-ee9f-4e64-8c28-0e707ce50a3e" />
+
+---
+
+**22. Выкипание воды из кастрюли**
+<img width="800" src="https://github.com/user-attachments/assets/8917f515-c19e-4db9-80b6-6646ad431d63" />
+
+---
+
+**23. Уведомление при неправильном действии*
+<img width="800" src="https://github.com/user-attachments/assets/2d079e67-1f5d-4659-ba3d-69eb11501c41" />
+
+---
+
+**24. Escape-меню**
+<img width="800" src="https://github.com/user-attachments/assets/2787667f-3d71-4fe0-b7b3-57d23c28fd5d" />
+
+---
+
+**25. Суп в суповой тарелке**
+<img width="800" src="https://github.com/user-attachments/assets/b5e7c27e-a8c9-4476-8cd5-97d130585b02" />
+
+---
+
+**26. Оценка блюда (слишком медленно приготовлено)**
+<img width="800" src="https://github.com/user-attachments/assets/83784a60-7092-4bac-b9cc-8e1314b86181" />
+
+---
+
+**27. Оценка блюда (не критические ошибки)**
+<img width="800" src="https://github.com/user-attachments/assets/4b0de09a-0f36-4772-be2a-b77d275cec8e" />
